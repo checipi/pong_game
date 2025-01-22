@@ -1,2 +1,2 @@
-# pong_game
+# Pong Game
 The classic pong game
